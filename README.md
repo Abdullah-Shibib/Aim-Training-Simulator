@@ -42,5 +42,9 @@ Clone or download the game files from the repository.
 Run the main.py file to start the game.
 
 Abdullah Shibib  - abdullahshibib@yahoo.com
+
 Abaan Noman  - abaan1@yahoo.com
+
 Mahmoud Berkoti - m.berkoti@gmail.com
+
+Omar Younes- oyounes541@gmail.com
