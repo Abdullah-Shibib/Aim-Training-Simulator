@@ -18,6 +18,7 @@ Top Bar Display: Shows essential information during gameplay, including elapsed 
 Login Screen: Before starting the game, players are prompted to input their email and year of birth.
 
 How to Play:
+
 Login: Enter your email and year of birth on the login screen.
 
 Gameplay: Use the mouse to aim and shoot targets as they appear on the screen.
