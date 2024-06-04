@@ -9,20 +9,15 @@ Regular Target: Starts small and grows gradually.
 Moving Target: Moves across the screen with varying speeds.
 Fast Shrinking Target: Shrinks faster than regular targets.
 Power-ups:
-
 Extra Life: Grants an additional life if the player collects it.
-
 Slow Motion: Slows down the movement of targets for a limited time.
-
 Larger Targets: Increases the size of all targets for a limited time.
-
 Top Bar Display: Shows essential information during gameplay, including elapsed time, hit count, hit rate, and remaining lives.
 
 
 Login Screen: Before starting the game, players are prompted to input their email and year of birth.
 
 How to Play:
-
 Login: Enter your email and year of birth on the login screen.
 
 Gameplay: Use the mouse to aim and shoot targets as they appear on the screen.
