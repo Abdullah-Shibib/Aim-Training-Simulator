@@ -1,4 +1,4 @@
-Description:
+
 This is an Aim Trainer game built using the Python library Pygame. The game provides a fun way to improve your aiming skills by shooting targets that appear randomly on the screen. It includes various types of targets and power-ups to enhance the gaming experience.
 
 Features:
